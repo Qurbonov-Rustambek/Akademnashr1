@@ -83,7 +83,7 @@ header {
 }
 
 .header__active::after {
-    content: "";
+    content: "1";
     background-color:#ff7500;
     width: 100%;
     height: 3px;
